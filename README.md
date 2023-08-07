@@ -1,1 +1,1 @@
-# js-printscreen-element
+# JavaScript - printscreen element
